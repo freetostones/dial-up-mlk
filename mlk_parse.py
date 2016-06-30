@@ -6,8 +6,10 @@ Parser to find whether a Shapefile record contains the following substrings:
 import shapefile
 import sys
 
-def main(unused_args):
-  sf = shapefile.Reader("shapefiles/roads")
+def main(args):
+  del args[0]  # arg for command name
+
+  sf = shapefile.Reader(args[0])
   mlk_streets = find_mlk_streets(sf)
   print mlk_streets
 
