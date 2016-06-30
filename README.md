@@ -1,0 +1,3 @@
+# dial-up-mlk
+A deeper look into proving a Chris Rock joke...
+DIAL UP
