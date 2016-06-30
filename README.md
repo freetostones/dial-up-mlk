@@ -1,6 +1,6 @@
 # MLK Street Analysis
 ---
-Data Analysis of Martin Luther King streets across the country
+A deeper look into proving a Chris Rock joke...
 [https://www.youtube.com/watch?v=7hJxWr1TKK8](https://www.youtube.com/watch?v=7hJxWr1TKK8)
 
 Instructions for use:
@@ -9,3 +9,5 @@ Instructions for use:
 
 Michael Martinez
 Sehmon Burnam
+
+DIAL UP
